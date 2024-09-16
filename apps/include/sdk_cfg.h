@@ -2,7 +2,7 @@
     *   Filename        : sdk_cfg.h
     *   Description     : Config for Sound Box Case
     *   Author          : Bingquan
-    *   Email           : bingquan_cai@zh-jieli.com
+    *   Email           : bingquan_cai@zh-jieli.com66666
     *   Last modifiled  : 2018-4-07 15:36
     *   Copyright:(c)JIELI  2011-2018  @ , All Rights Reserved.
 *********************************************************************************************/
