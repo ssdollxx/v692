@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="..\include_lib\common\app_cfg.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2068" topLine="62" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\ui\lcd\lcd_spi.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="84" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\fs\fat\tff.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4365" topLine="118" />
+		</Cursor>
+	</File>
+	<File name="common\music_player\warning_tone.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9149" topLine="38" />
+		</Cursor>
+	</File>
+	<File name="task_manager\task_echo\task_echo_key.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="57" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ble_stack\user\att_send.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5057" topLine="619" />
+		</Cursor>
+	</File>
+	<File name="cpu\key_drv\key_drv_ad_rtcvdd.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3461" topLine="284" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\ui\ui_common.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\common\printf.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="56" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="btstack\user\bt_tws.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="578" topLine="13" />
+		</Cursor>
+	</File>
+	<File name="cpu\ui\lcd\lcd_drv_interface.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="108" />
+		</Cursor>
+	</File>
+	<File name="task_manager\task_manager.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="888" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="cpu\power\charge.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="task_manager\task_fm\task_fm.c" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5370" topLine="184" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\key_drv\key_drv_ad.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\ui\lcd\lcd_disp.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="115" />
+		</Cursor>
+	</File>
+	<File name="cpu\board\board.c" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3486" topLine="129" />
+		</Cursor>
+	</File>
+	<File name="cpu\ui\lcd\lcd_drv_api.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="380" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\uart\uart_user.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="148" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\ui\lcd\lcd_drv_api.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1229" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="cpu\key_drv\key.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3106" topLine="257" />
+		</Cursor>
+	</File>
+	<File name="cpu\ui\ui_common.c" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2448" topLine="33" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\key_drv\key.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2241" topLine="84" />
+		</Cursor>
+	</File>
+	<File name="include\common\msg.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2827" topLine="156" />
+		</Cursor>
+	</File>
+	<File name="cpu\key_drv\key_drv_encoder.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1114" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="task_manager\task_music\task_music_key.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1286" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="cpu\audio\audio_stream.c" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2035" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="cpu\ui\led\led7_drv.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11882" topLine="457" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\bluetooth\avctp_user.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2430" topLine="42" />
+		</Cursor>
+	</File>
+	<File name="cpu\power\power.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="18611" topLine="668" />
+		</Cursor>
+	</File>
+	<File name="cpu\ui\lcd\lcd128X64.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1650" topLine="46" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\key_drv\key_drv_tch.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="69" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\common\debug.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="702" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\common\file_operate\file_operate.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2817" topLine="94" />
+		</Cursor>
+	</File>
+	<File name="task_manager\task_bt\task_bt_key.c" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1228" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="include\common\music_player\music_player.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2729" topLine="63" />
+		</Cursor>
+	</File>
+	<File name="common\file_operate\file_operate.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17623" topLine="623" />
+		</Cursor>
+	</File>
+	<File name="cpu\key_drv\key_drv_uart.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1471" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ble_stack\user\le_server_module.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1014" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\key_drv\key_drv_io.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="478" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="cpu\ui\task_ui\music_ui.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2713" topLine="119" />
+		</Cursor>
+	</File>
+	<File name="include\sdk_const_define.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="29" />
+		</Cursor>
+	</File>
+	<File name="task_manager\task_manager.c" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1829" topLine="73" />
+		</Cursor>
+	</File>
+	<File name="cpu\board_init.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2335" topLine="86" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\updata.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="75" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="task_manager\task_fm\fm_inside\fm_inside.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="147" />
+		</Cursor>
+	</File>
+	<File name="cpu\ui\ui_api.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8170" topLine="375" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\uicon\ui.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2554" topLine="82" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\common\resource_manage.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="867" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="task_manager\task_bt\task_bt_key.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="87" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\cpu\typedef.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2265" topLine="61" />
+		</Cursor>
+	</File>
+	<File name="common\msg.c" open="0" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4115" topLine="199" />
+		</Cursor>
+	</File>
+	<File name="task_manager\task_music\task_music.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7966" topLine="338" />
+		</Cursor>
+	</File>
+	<File name="btstack\user\a2dp_decode.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="72" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="cpu\ui\lcd\lcd_disp.c" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12493" topLine="516" />
+		</Cursor>
+	</File>
+	<File name="task_manager\task_common.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3995" topLine="163" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\common\common.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="864" topLine="33" />
+		</Cursor>
+	</File>
+	<File name="common\ui\font_api.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="97" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\key_drv\key_drv_uart.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="94" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\uicon\lyrics.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1423" topLine="40" />
+		</Cursor>
+	</File>
+	<File name="cpu\audio\eq.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10467" topLine="359" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\ui\ui_api.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4055" topLine="135" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\cpu\irq_api.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2828" topLine="94" />
+		</Cursor>
+	</File>
+	<File name="cpu\iic\iic_hw.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1627" topLine="145" />
+		</Cursor>
+	</File>
+	<File name="task_manager\task_bt\task_bt.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="53908" topLine="1774" />
+		</Cursor>
+	</File>
+	<File name="auto_test\auto_test.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="385" topLine="30" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\power\charge.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="cpu\uart\uart.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14041" topLine="45" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\ui\task_ui\bt_ui.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="common\music_player\music_decoder.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8293" topLine="380" />
+		</Cursor>
+	</File>
+	<File name="cpu\ui\task_ui\bt_ui.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="453" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="task_manager\task_pc\task_pc.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3723" topLine="142" />
+		</Cursor>
+	</File>
+	<File name="include\sdk_cfg.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2069" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="task_manager\task_idle\task_idle.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2115" topLine="76" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\ui\lcd\lcd_drv_interface.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="btstack\user\bt_configs_user.c" open="1" top="1" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="23650" topLine="785" />
+		</Cursor>
+	</File>
+	<File name="common\music_player\music_player.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="19666" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="task_manager\task_fm\task_fm_key.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="53" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\cpu\uart.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="494" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="cpu\key_drv\key_drv_io.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="63" />
+		</Cursor>
+	</File>
+	<File name="common\dev_manage.c" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9125" topLine="147" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\cpu\hw_cpu.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9152" topLine="342" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\key_drv\key_voice.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="135" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="common\echo\echo_api.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7895" topLine="279" />
+		</Cursor>
+	</File>
+	<File name="task_manager\task_idle\task_idle.h" open="0" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="162" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="cpu\updata.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5375" topLine="198" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\cpu\uart_param.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="426" topLine="16" />
+		</Cursor>
+	</File>
+	<File name="cpu\key_drv\key_drv_ir.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\dec\if_decoder_ctrl.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1639" topLine="55" />
+		</Cursor>
+	</File>
+	<File name="cpu\ui\lcd\lcd_spi.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="447" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="task_manager\task_echo\task_echo_key.c" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1314" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="btstack\trunk\fcc_test.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="90" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="task_manager\task_idle\task_idle_key.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9985" topLine="279" />
+		</Cursor>
+	</File>
+	<File name="cpu\key_drv\key_drv_tch.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4973" topLine="147" />
+		</Cursor>
+	</File>
+	<File name="common\common.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2067" topLine="191" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\ui\task_ui\music_ui.h" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="394" topLine="10" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
